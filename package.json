@@ -1,0 +1,26 @@
+{
+  "name": "scheduler-jest-jsdom-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-homyakov/scheduler-jest-jsdom-example.git"
+  },
+  "author": "Victor Homyakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victor-homyakov/scheduler-jest-jsdom-example/issues"
+  },
+  "homepage": "https://github.com/victor-homyakov/scheduler-jest-jsdom-example#readme",
+  "dependencies": {
+    "scheduler": "^0.23.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0"
+  }
+}
